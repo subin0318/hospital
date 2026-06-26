@@ -1,0 +1,32 @@
+# 환경변수 파일 (API 키 포함)
+.env
+service/.env
+
+# SQLite 데이터베이스 파일
+*.db
+service/collect_hospitals/*.db
+
+# 파이썬 캐시 및 가상환경
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# 노드 패키지 및 빌드 결과물
+node_modules/
+service/Front/node_modules/
+dist/
+service/Front/dist/
+
+# IDE 및 OS 시스템 파일
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 추가된 작업 디렉토리 및 파일
+개발하면서 배운 개념/
+구현하기 작업 기록하기/
+아이디어/
+work/

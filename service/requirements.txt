@@ -1,0 +1,7 @@
+fastapi
+google-genai
+pydantic
+python-dotenv
+requests
+uvicorn
+xmltodict
