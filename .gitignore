@@ -30,3 +30,6 @@ Thumbs.db
 구현하기 작업 기록하기/
 아이디어/
 work/
+
+# 스크립트 파일
+service/start_service.ps1
